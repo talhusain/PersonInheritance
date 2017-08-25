@@ -6,7 +6,7 @@ public class PersonClient
 		Employee employee1 = new Employee();
 	
 		employee1.setName("John");
-		employee1.setAddress("123 silversands");
+		employee1.setAddress("123 silversands parkway");
 		employee1.setPhone("555-55-5555");
 		employee1.setEmail("TooCoolForSchool@yahoo.com");
 		employee1.setOffice("Ahker Solutions");
